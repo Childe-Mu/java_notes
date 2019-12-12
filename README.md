@@ -1,7 +1,9 @@
 # java学习笔记
 
 ## 1.bug学习总结
+
 [设计原则与代码实践(记一次线上bug)](https://segmentfault.com/a/1190000019731055)
+
 [413错误——线上bug历险记](https://segmentfault.com/a/1190000019962772)
 
 ## 2.其他

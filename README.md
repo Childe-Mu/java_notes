@@ -10,6 +10,15 @@
 
 [Spring原生Rpc六种实现的正确打开方式](http://www.kailing.pub/article/index/arcid/241.html)
 
+## 3.redis
+[深入学习Redis（1）：Redis内存模型](https://www.cnblogs.com/kismetv/p/8654978.html)
+[深入学习Redis（2）：持久化](https://www.cnblogs.com/kismetv/p/9137897.html)
+[深入学习Redis（3）：主从复制](https://www.cnblogs.com/kismetv/p/9236731.html)
+[深入学习Redis（4）：哨兵](https://www.cnblogs.com/kismetv/p/9609938.html)
+[深入学习Redis（5）：集群](https://www.cnblogs.com/kismetv/p/9853040.html)
+
+
+
 ## 3.工具
 
 [IntelliJ IDEA神器使用技巧](https://www.imooc.com/learn/924)

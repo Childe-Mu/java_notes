@@ -21,12 +21,18 @@
 
   [深入学习Redis（5）：集群](https://www.cnblogs.com/kismetv/p/9853040.html)
 
-
-## 3.工具
+## 4.分布式
+### 4.1 zookeeper
+  [基于Zookeeper实现分布式锁](https://www.cnblogs.com/jing99/p/11607094.html)
+  [基于ZooKeeper的分布式锁和队列](https://www.cnblogs.com/luxiaoxun/p/4889764.html)
+  [使用zookeeper实现分布式队列设计思路](https://blog.csdn.net/fansenjun/article/details/100752274)
+  [Zookeeper分布式队列的实现](https://blog.csdn.net/Evankaka/article/details/70806752)
+  
+## 6.工具
 
   [IntelliJ IDEA神器使用技巧](https://www.imooc.com/learn/924)
 
-## 4.其他
+## 7.其他
 
   [SpringBoot 2.0.3 通过编程方式整合jsp；jsp页面没有渲染而是直接返回整个页面字符串](https://segmentfault.com/q/1010000015307461?utm_source=tag-newest)
 

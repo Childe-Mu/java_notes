@@ -22,11 +22,19 @@
   [深入学习Redis（5）：集群](https://www.cnblogs.com/kismetv/p/9853040.html)
 
 ## 4.分布式
+
 ### 4.1 zookeeper
+
   [基于Zookeeper实现分布式锁](https://www.cnblogs.com/jing99/p/11607094.html)
+
   [基于ZooKeeper的分布式锁和队列](https://www.cnblogs.com/luxiaoxun/p/4889764.html)
+
   [使用zookeeper实现分布式队列设计思路](https://blog.csdn.net/fansenjun/article/details/100752274)
+
   [Zookeeper分布式队列的实现](https://blog.csdn.net/Evankaka/article/details/70806752)
+  
+  [分布式队列实现思路](https://www.cnblogs.com/chinanetwind/articles/9483521.html)
+
   
 ## 6.工具
 

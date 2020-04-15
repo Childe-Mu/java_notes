@@ -21,6 +21,7 @@
 
   [深入学习Redis（5）：集群](https://www.cnblogs.com/kismetv/p/9853040.html)
 
+
 ## 4.分布式
 
 ### 4.1 zookeeper
@@ -34,7 +35,16 @@
   [Zookeeper分布式队列的实现](https://blog.csdn.net/Evankaka/article/details/70806752)
   
   [分布式队列实现思路](https://www.cnblogs.com/chinanetwind/articles/9483521.html)
+  
+  [基于Apache Curator框架的ZooKeeper使用详解](https://www.cnblogs.com/erbing/p/9799098.html)
+  
+## 5.数据库
 
+### 5.1 数据库同步
+
+  [canal使用记录](https://www.cnblogs.com/shaozhiqi/p/11534658.html)
+  
+  [DataX3.0简介](https://blog.csdn.net/u014646662/article/details/82792725)
   
 ## 6.工具
 

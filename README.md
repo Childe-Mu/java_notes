@@ -50,7 +50,15 @@
 
   [IntelliJ IDEA神器使用技巧](https://www.imooc.com/learn/924)
 
-## 7.其他
+## 7.算法
+  
+  ### 7.1 红黑树
+  
+   [二叉树知识点回忆以及整理](http://dandanlove.com/2017/10/20/about-binary-tree/)
+  
+   [寻找红黑树的操作手册](http://dandanlove.com/2018/03/18/red-black-tree/)
+
+## 其他
 
   [SpringBoot 2.0.3 通过编程方式整合jsp；jsp页面没有渲染而是直接返回整个页面字符串](https://segmentfault.com/q/1010000015307461?utm_source=tag-newest)
 
